@@ -1,10 +1,9 @@
 
-<h1> Need a Password? ByteBlaze it!  
+# Need a Password? ByteBlaze it!  
   
 **ByteBlaze** is a simple, modular, and extensible password generator app in Java that allows you to create random passwords with customizable length and character sets.  
   
-<h2> Overview  
-
+# Overview  
 The ByteBlaze password generator consists of three main classes:  
   
 
@@ -18,8 +17,7 @@ The ByteBlaze password generator consists of three main classes:
 
 
 
-<h2>  Usage  
-
+# Usage  
 To generate a random password, follow these steps:  
   
 1. Create a **PasswordRequirements** instance with your desired password requirements, such as length and which character sets to include (uppercase letters, lowercase letters, digits, and special characters).  
@@ -45,8 +43,7 @@ In this example, we're creating a password requirement for a password of length 
 
   
   
-<h2>  Example  
-
+# Example  
 Here's a complete example of how to use the password generator in your code:  
   
 

@@ -63,4 +63,4 @@ Here's a complete example of how to use the password generator:
 - This example demonstrates how to create a **PasswordRequirements** instance and generate a random password using the **PasswordGenerator class**. The generated password will have a length of **10 characters** and will include uppercase letters, lowercase letters, digits, and special characters. The password will be printed to the console.
 
 
-# THANKS FOR USING BYTEBLAZE! 
+ 

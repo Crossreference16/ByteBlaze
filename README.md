@@ -44,7 +44,7 @@ In this example, we're creating a password requirement for a password of length 
   
   
 # Example  
-Here's a complete example of how to use the password generator in your code:  
+Here's a complete example of how to use the password generator:  
   
 
     public class Main {  
